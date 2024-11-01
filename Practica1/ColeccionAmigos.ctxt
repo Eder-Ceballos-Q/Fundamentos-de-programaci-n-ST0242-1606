@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ColeccionAmigos
+comment0.text=\r\n\r\n\ @author\ Eder\ Ceballos\r\n\ @version\ 1\r\n
+comment1.params=a
+comment1.target=void\ agregarAmigos(Amigos)
+comment2.params=
+comment2.target=void\ mostrarAmigos()
+comment3.params=
+comment3.target=void\ ordenarPorCedula()
+comment4.params=amigos\ i\ j
+comment4.target=void\ swap(Amigos[],\ int,\ int)
+comment5.params=cedula
+comment5.target=void\ buscarAmigoPorCedula(int)
+numComments=6
