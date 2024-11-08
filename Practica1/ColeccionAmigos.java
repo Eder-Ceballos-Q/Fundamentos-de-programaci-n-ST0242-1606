@@ -6,6 +6,7 @@
  */
 public class ColeccionAmigos
 {
+
     private static Amigos[] amigos = new Amigos[5];
     private static int Count = 0;
     

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rutas
+comment1.params=fileName
+comment1.target=Rutas(java.lang.String)
+comment1.text=Metodo\ constructor\ el\ cual\ inicializa\ el\ Map\ definido\ como\ indices\ y\ se\ le\ asigna\ una\ clave\r\na\ cada\ indice
+comment2.params=fileName
+comment2.target=int[][]\ LeerMatriz(java.lang.String)
+comment2.text=Lee\ la\ matriz\ desde\ un\ archivo\ de\ texto\ y\ la\ convierte\ en\ una\ matriz\ de\ enteros
+comment3.params=
+comment3.target=void\ initializepredecesores()
+comment3.text=Este\ m\u00E9todo\ configura\ una\ matriz\ llamada\ predecesores,\ donde\ cada\ elemento\ predecesores[i][j]\r\n\ representa\ el\ nodo\ (pa\u00EDs)\ previo\ a\ j\ en\ la\ ruta\ m\u00E1s\ corta\ desde\ el\ nodo\ i.\r\n\ La\ matriz\ predecesores\ facilita\ el\ seguimiento\ de\ la\ ruta\ de\ cada\ nodo\ a\ otro\ al\ mantener\r\nel\ nodo\ anterior\ en\ el\ camino\ m\u00E1s\ corto.
+comment4.params=
+comment4.target=void\ OrdenDePredecesores()
+comment5.params=paisOrigen\ paisFinal
+comment5.target=int\ Distancias(java.lang.String,\ java.lang.String)
+comment5.text=recibe\ como\ parametros\ tu\ pais\ de\ origen\ y\ el\ pais\ de\ destino\ para\ convertirlos\ en\ indices\r\ny\ posteriormente\ retornar\ su\ distancia
+comment6.params=paisOrigen\ paisFinal
+comment6.target=java.util.List\ rutaInversa(java.lang.String,\ java.lang.String)
+numComments=7

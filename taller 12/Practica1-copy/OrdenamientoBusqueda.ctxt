@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=OrdenamientoBusqueda
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OrdenamientoBusqueda\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nums
+comment1.target=int[]\ selectionSort(int[])
+comment2.params=nums\ i\ j
+comment2.target=void\ swap(int[],\ int,\ int)
+comment3.params=n
+comment3.target=void\ llenarArregloGrande(int)
+comment4.params=n
+comment4.target=void\ llamarSelectionSort(int)
+comment5.params=
+comment5.target=void\ rangoDeLongitud()
+comment6.params=nums\ elem
+comment6.target=int\ busquedaBinaria(int[],\ int)
+comment7.params=nums
+comment7.target=int[]\ selectionSort2(int[])
+comment8.params=nums\ i\ j
+comment8.target=void\ swap2(int[],\ int,\ int)
+comment9.params=nums
+comment9.target=int[]\ bubbleSort(int[])
+numComments=10

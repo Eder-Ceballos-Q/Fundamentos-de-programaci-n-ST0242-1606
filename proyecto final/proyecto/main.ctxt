@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ Clase\ principal\ para\ calcular\ la\ ruta\ y\ distancia\ m\u00E1s\ corta\ entre\ dos\ pa\u00EDses\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ el\ programa.\r\n\ Permite\ al\ usuario\ ingresar\ un\ pa\u00EDs\ de\ origen\ y\ destino,\ y\ calcula\ la\ distancia\r\n\ y\ la\ ruta\ m\u00E1s\ corta\ entre\ ambos\ pa\u00EDses,\ leyendo\ los\ datos\ de\ una\ matriz\ almacenada\ en\ un\ archivo.\r\n\r\n\ @param\ args\ Argumentos\ de\ l\u00EDnea\ de\ comando\ (no\ utilizados\ en\ este\ programa).\r\n
+numComments=2
